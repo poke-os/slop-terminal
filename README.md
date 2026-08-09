@@ -2,6 +2,6 @@
 
 Contract Address:
 
-`3MZeQ3saWXUva4sc2hL1iJyQpa8GTEUbgbAkgVeHpump`
+`7rfJ2akXgg5V5E5oS5FFRvGM4D6zEP7Z7iKD5UPLpump`
 
 A lore-heavy natural language terminal for the age of AI Slop. 
